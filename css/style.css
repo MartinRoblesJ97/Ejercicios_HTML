@@ -1,0 +1,46 @@
+
+body {
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Montserrat', sans-serif;}
+
+.container-fluid{
+    
+    padding: 0px;}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;}
+
+.btn-primary {
+    background-color: #66BFBF;
+    color: black;
+    border: none;}
+
+.btn-primary:hover{background-color: #85586f;}
+
+/* Estilo para los botones de redes sociales*/
+
+.Linkedin{margin: 10px;
+    padding: 5px;
+    background-color:#0e76a8;
+    color: white;
+    font-size: 17px;
+    border: 2px solid #cccccc;
+    border-radius: 10px;}
+
+.Github{margin: 10px;
+    padding: 5px;
+    background-color:#171515;
+    color: white;
+    font-size: 17px;
+    border: 2px solid #cccccc;
+    border-radius: 10px;}
+    
+.Correo{margin: 10px;
+    padding: 5px;
+    background-color:#004f9f;
+    color: white;
+    font-size: 17px;
+    border: 2px solid #cccccc;
+    border-radius: 10px;}
